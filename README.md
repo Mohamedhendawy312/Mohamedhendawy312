@@ -8,9 +8,9 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 
 ---
 
-## Tech Stack
+## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=plastic&logoColor=black) ![ROS](https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+[![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#) [![ROS](https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white)](#) [![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Linux](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
 ---
 
@@ -26,6 +26,6 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhendawy312/) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:mohamedhendawy312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhendawy312/) [![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhendawy312@gmail.com)
 
 Happy to chat about CV, robotics, or interesting project ideas.
