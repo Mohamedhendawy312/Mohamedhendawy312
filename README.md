@@ -11,7 +11,7 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 ## Skills
 
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ros,cpp,docker,linux&theme=light&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ros,cpp,docker,linux&theme=light&perline=8" height="60" /></a>
 </p>
 
 ---
@@ -29,8 +29,8 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamedhendawy312/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
-  <a href="mailto:mohamedhendawy312@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  <a href="https://www.linkedin.com/in/mohamedhendawy312/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" /></a>
+  <a href="mailto:mohamedhendawy312@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" /></a>
 </p>
 
 Happy to chat about CV, robotics, or interesting project ideas.
