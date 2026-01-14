@@ -10,7 +10,9 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 
 ## Skills
 
-[![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#) [![ROS](https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white)](#) [![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Linux](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ros,cpp,docker,linux&theme=light&perline=8" /></a>
+</p>
 
 ---
 
@@ -26,6 +28,9 @@ My background is in Mechatronics, which is why I naturally gravitate toward prob
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhendawy312/) [![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhendawy312@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/mohamedhendawy312/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
+  <a href="mailto:mohamedhendawy312@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+</p>
 
 Happy to chat about CV, robotics, or interesting project ideas.
